@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "scaffolded-component"
+  description: "This is an auto generated backstage documentation component"
+  annotations:
+    github.com/project-slug: pandelus/Scaffolded-Backstage-TechDocs-Repository
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "team-a"

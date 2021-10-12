@@ -1,0 +1,8 @@
+site_name: "scaffolded-component"
+site_description: "This is an auto generated backstage documentation component"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
